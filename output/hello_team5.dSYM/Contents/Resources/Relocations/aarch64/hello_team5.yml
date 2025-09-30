@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bogdanstrutinskij/Documents/github_team5/https-github.com-Team_5-TEST/output/hello_team5'
+relocations:     []
+...
